@@ -1,4 +1,5 @@
 Django==5.0.4
 text-to-speech==1.6.1
+gunicorn==20.1.0
 
 
